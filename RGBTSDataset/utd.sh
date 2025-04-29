@@ -1,0 +1,1 @@
+for file in *.tar.gz; do tar -xzvf "$file"; done
